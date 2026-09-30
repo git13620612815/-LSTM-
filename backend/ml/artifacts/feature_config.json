@@ -1,0 +1,19 @@
+{
+  "window": 24,
+  "features": [
+    "load_mw",
+    "hour",
+    "weekday",
+    "is_holiday"
+  ],
+  "use_temperature": false,
+  "input_size": 4,
+  "load_q_low": 10802.0,
+  "load_q_high": 22217.29999999999,
+  "temp_fill": 0.0,
+  "metrics": {
+    "mae": 102.5539,
+    "rmse": 136.7698,
+    "mape": 0.6976
+  }
+}
